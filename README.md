@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Web Login with Face Authentication
 
 Simple web-based login system that uses face authentication to verify users. The app includes a Flask backend (`app.py`), HTML templates, and basic static styling.
