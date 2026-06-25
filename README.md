@@ -172,4 +172,3 @@ Open the server URL shown in the console (e.g., `http://localhost:5000`) and use
 ## License
 
 Add a license file if you plan to publish or distribute this project.
->>>>>>> 8eb034330f03e126879bf1ddae67a542bedd73b5
